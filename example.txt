@@ -1,2 +1,2 @@
 Line 1
-New line 2
+Aligned line 2
